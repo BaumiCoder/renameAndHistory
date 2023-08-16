@@ -11,4 +11,4 @@ Like:
 - [GitLab](https://gitlab.com/BaumiCoder/renameandhistory/-/commits/main/history.txt)
 - [GitHub](https://github.com/BaumiCoder/renameAndHistory/commits/main/history.txt)
 
-![Main Repository at Codeberg](Codeberg.svg)
+[![Main Repository at Codeberg](Codeberg.svg)](https://codeberg.org/BaumiCoder/renameAndHistory)
